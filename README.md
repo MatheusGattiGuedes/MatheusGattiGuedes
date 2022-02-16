@@ -1,4 +1,4 @@
-<p align="center">Oi eu sou Matheus Guedes!</p>
+<h1 align="center">Oi eu sou Matheus Guedes!</h1>
 
 <div align="center">
   <a href="https://github.com/MatheusGattiGuedes">
@@ -13,10 +13,10 @@
   <img align="center" alt="Guedes-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 </div>
   
-  ##
+##
   
 <div> 
-  <a href = "mailto:matheusgattiguedes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:matheusgattiguedes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheusgatti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/MatheusGattiGuedes/MatheusGattiGuedes/blob/output/github-contribution-grid-snake.svg)
